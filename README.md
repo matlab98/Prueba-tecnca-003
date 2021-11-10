@@ -10,7 +10,7 @@ tenerla agregada como una variable en el path del sistema.
 ## Detalles generales de la implementación
 
 Los tests usan tareas (tasks), interacciones (interactions), preguntas (questions), elementos de páginas (user_interface)
-definidas en `com.devcognitio.screenplay.avianca`.
+definidas en `com.pruebas.tecnica`.
 
 La estructura completa del proyecto es la siguiente:
 
