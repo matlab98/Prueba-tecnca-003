@@ -1,7 +1,6 @@
 package com.prueba.tecnica.tasks;
 
 import com.prueba.tecnica.model.FechaBuilder;
-import com.prueba.tecnica.model.busqueda.FechaDeSalida;
 import com.prueba.tecnica.user_interface.RegisterUI;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Performable;
